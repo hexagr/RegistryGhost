@@ -1,0 +1,3 @@
+﻿  RegistryGhost.c
+C:\Users\augur\source\repos\RegistryGhost\RegistryGhost\RegistryGhost.c(360,26): warning C4244: 'function': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+  RegistryGhost.vcxproj -> C:\Users\augur\source\repos\RegistryGhost\x64\Debug\RegistryGhost.exe
